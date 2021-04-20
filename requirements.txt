@@ -141,7 +141,7 @@ webapp2==2.5.2
 webassets==0.11.1
 WebOb==1.4
 WebTest==2.0.17
-Werkzeug==0.11.3
+Werkzeug==0.15.3
 windmill==1.6
 xattr==0.6.4
 xlrd==0.9.4
