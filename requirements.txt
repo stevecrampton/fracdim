@@ -131,7 +131,7 @@ singledispatch==3.4.0.3
 six==1.10.0
 sPickle==0.1.7
 tornado==4.3
-Twisted==13.2.0
+Twisted==20.3.0
 unicodecsv==0.14.1
 urllib3==1.7.1
 virtualenv==15.0.1
