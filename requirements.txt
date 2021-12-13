@@ -50,7 +50,7 @@ lda==1.0.3
 librabbitmq==1.6.1
 line-profiler==1.0
 logilab-common==0.63.2
-lxml==3.5.0
+lxml==4.6.5
 macholib==1.5.1
 marisa-trie==0.7.2
 MarkupSafe==0.23
