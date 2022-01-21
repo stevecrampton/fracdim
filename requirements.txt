@@ -40,7 +40,7 @@ gunicorn==19.4.5
 httplib2==0.9.2
 httpretty==0.8.3
 icalendar==3.9.1
-ipython==3.2.1
+ipython==7.16.3
 isodate==0.5.1
 itsdangerous==0.24
 Jinja2==2.8
