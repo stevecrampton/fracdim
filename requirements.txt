@@ -15,7 +15,7 @@ boto==2.38.0
 bottle==0.12.8
 celery==3.1.19
 celery-with-redis==3.0
-certifi==2015.11.20.1
+certifi==2022.12.7
 characteristic==14.3.0
 click==6.2
 CProfileV==1.0.4
